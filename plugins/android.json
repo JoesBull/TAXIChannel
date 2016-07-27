@@ -9,7 +9,62 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "mx.taxichannel.app"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
         }
     },
-    "dependent_plugins": {}
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "mx.taxichannel.taxichannelapp"
+        }
+    }
 }
